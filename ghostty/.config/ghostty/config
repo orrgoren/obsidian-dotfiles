@@ -1,0 +1,6 @@
+command = /usr/bin/zsh
+theme = Catppuccin Mocha
+font-size = 14
+gtk-titlebar = false
+mouse-scroll-multiplier = 0.95
+async-backend = epoll
